@@ -33,15 +33,11 @@ y buenas prácticas de ingeniería.
 
 ---
 
-<!-- 
-
 ### 💻 Algunos de mis proyectos
 
 Puedes ver algunos de mis trabajos y experimentos en:
 
-🔗 https://paulovivar.netlify.app
-
--->
+🔗 https://paulo-vivar.vercel.app/
 
 ### 📫 Cómo contactarme
 
