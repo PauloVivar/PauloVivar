@@ -39,6 +39,8 @@ Puedes ver algunos de mis trabajos y experimentos en:
 
 🔗 https://paulo-vivar.vercel.app/
 
+---
+
 ### 📫 Cómo contactarme
 
 Si quieres conversar sobre tecnología, proyectos o colaboración:
