@@ -37,7 +37,7 @@ y buenas prácticas de ingeniería.
 
 Puedes ver algunos de mis trabajos y experimentos en:
 
-🔗 https://paulo-vivar.vercel.app/
+🔗 https://paulo-vivar.vercel.app
 
 ---
 
